@@ -1,0 +1,17 @@
+[project]
+name = "manuscript-cleavage-modelling-2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.30.1",
+    "ipympl>=0.9.7",
+    "matplotlib>=3.10.6",
+    "mycolorpy>=1.5.1",
+    "numpy>=2.3.3",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.2",
+    "scipy>=1.16.2",
+    "seaborn>=0.13.2",
+]

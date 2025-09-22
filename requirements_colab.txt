@@ -1,0 +1,7 @@
+matplotlib
+mycolorpy
+numpy
+pandas
+scipy
+seaborn
+
